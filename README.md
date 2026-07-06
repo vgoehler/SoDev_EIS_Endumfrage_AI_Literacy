@@ -34,7 +34,7 @@ tags: Lehre, TUBAF
 
 ## Zwischenumfrage
 
-[qr-code](https://limesurvey.hrz.tu-freiberg.de/index.php/497385?lang=de "Limesurvey Softwareentwicklung Zwischenumfrage (deutsch)")
+[qr-code](https://limesurvey.hrz.tu-freiberg.de/index.php/497385?lang=de "Limesurvey EiSoftwareentwicklung Endumfrage (deutsch)")
 
 - https://limesurvey.hrz.tu-freiberg.de/index.php/497385?lang=de
 - https://limesurvey.hrz.tu-freiberg.de/index.php/497385?lang=en
